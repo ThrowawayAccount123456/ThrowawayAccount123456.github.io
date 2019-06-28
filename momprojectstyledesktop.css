@@ -1,0 +1,54 @@
+* {
+    font-family: Noto Sans HK, sans-serif;
+    color: #d4d5d6;
+}
+
+@media only screen and (max-width: 750px) {
+    #headerText {
+      color: black;
+    }
+  }
+
+#headerStuff {
+    text-align: center;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -.8vh;
+    font-size: 1.5em;
+    background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.6), 
+          rgba(0, 0, 0, 0.6)
+        ),
+        url(heart.jpg);
+    background-position: center;
+    background-position-y: 0vh;
+}
+img {
+  padding-top: 35vh;
+  height: 5px;
+  height: 40px;
+  margin-bottom: 0px;
+  position: relative;
+  padding-bottom: 7.349vh;
+}
+#headerText {
+  padding-top: 5vh;
+  position: relative;
+  padding-top: 30vh;
+}
+#secondPart {
+  background-color: #475263;
+  height: 100vh;
+  margin-top: -1.7vh;
+  margin-right: -.8vw;
+  margin-left: -.8vw;
+}
+#sorryText {
+  text-align: center;
+  padding-top: 45vh;
+}
+#moreText {
+  text-align: center;
+  padding-top: 45vh;
+}

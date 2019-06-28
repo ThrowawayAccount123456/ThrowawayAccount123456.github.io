@@ -1,0 +1,43 @@
+* {
+    font-family: Noto Sans HK, sans-serif;
+    color: #d4d5d6;
+}
+#headerText {
+    text-align: center;
+    padding-top: 36vh;
+    padding-bottom: 10vh;
+    margin-top: -4vh;
+    background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.6), 
+          rgba(0, 0, 0, 0.6)
+        ),
+        url(heartsmall.jpg);
+    background-position: center;
+    background-position-y: 0vh;
+    margin-left: -1.5vw;
+    margin-right: -1.5vw;
+}
+img {
+    height: 20px;
+    padding-top: 30vh;
+}
+#secondPart {
+    background-color: #475263;
+    margin-top: -2.4vh;
+    margin-left: -1.4vw;
+    margin-right: -1.4vw;
+    height: 100vh;
+    margin-bottom: 0;
+}
+#sorryText {
+    padding-top: 40vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+#moreText {
+    padding-top: 38vh;
+    text-align: center;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
