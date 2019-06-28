@@ -15,6 +15,7 @@
         url(heartsmall.jpg);
     background-position: center;
     background-position-y: 0vh;
+    background-repeat: no-repeat;
     margin-left: -1.5vw;
     margin-right: -1.5vw;
 }
@@ -34,10 +35,12 @@ img {
     padding-top: 40vh;
     margin-left: 20vw;
     margin-right: 20vw;
+    font-size: 1.5em;
 }
 #moreText {
     padding-top: 38vh;
     text-align: center;
     margin-left: 5vw;
     margin-right: 5vw;
+    font-size: 1.5em;
 }
